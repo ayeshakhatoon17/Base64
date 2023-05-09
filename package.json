@@ -1,0 +1,25 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakhatoon17/Base64.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakhatoon17/Base64/issues"
+  },
+  "homepage": "https://github.com/ayeshakhatoon17/Base64#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
